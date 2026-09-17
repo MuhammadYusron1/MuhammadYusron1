@@ -1,4 +1,4 @@
-# Hi there, I'm [Muhammad Yusron Turmudzi] 👋
+# Hi there, I'm Muhammad Yusron Turmudzi 👋
 
 I am a passionate tech enthusiast currently focusing on **DevOps powered by AI** and building efficient, automated workflows. I have a strong love for the open-source community, specifically hunting down **free, self-hosted, and open-source alternatives** to bloated paid software.
 

@@ -12,11 +12,11 @@ I am a passionate tech enthusiast currently focusing on **DevOps powered by AI**
 ---
 
 ### 🤝 Connect With Me
-* **LinkedIn:** [https://www.linkedin.com/in/muhammad-yusron-turmudzi-3699261b1/](https://://linkedin.com)
+* **LinkedIn:** [Muhammad Yusron Turmudzi](https://www.linkedin.com/in/muhammad-yusron-turmudzi-3699261b1/)
 * **Twitter/X:** [@yourhandle](https://twitter.com)
 * **Website/Blog:** [yourdomain.com](https://yourdomain.com)
 
-_"Free software is a matter of liberty, not price."_
+_"The best way to predict the future is to open-source it."_
 
 <!---
 MuhammadYusron1/MuhammadYusron1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
